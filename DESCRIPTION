@@ -1,6 +1,6 @@
 Package: murlib.data
 Title: Data Utilities
-Version: 1.1.0
+Version: 1.2.0
 Authors@R: 
     person("Murat", "Tasan",
            email = "mmuurr@gmail.com",
