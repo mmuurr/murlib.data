@@ -95,7 +95,7 @@ vignettes/*.pdf
 .Renviron
 
 # pkgdown site
-docs/
+#docs/
 
 # translation temp files
 po/*~
@@ -108,4 +108,3 @@ rsconnect/
 /*_files/
 
 # End of https://www.toptal.com/developers/gitignore/api/emacs,r
-docs
